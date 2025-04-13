@@ -1,7 +1,7 @@
-# MindfullConnect: Mental Health Support Website
+# MindSaarthi t: Mental Health Support  Platform
 
 ## Overview
-MindfullConnect is a **frontend website** developed to provide comprehensive mental health resources and support. Built using HTML, CSS, and JavaScript, it offers users tools for self-assessment, access to professional services, and emergency support. This platform responds to the growing demand for accessible online mental health services and aims to improve psychological well-being through interactive features, educational content, and real-time support.
+MindSaarthi a user-friendly, multilingual mental health support platform to deliver empathetic, human-like response. Beyond conversational support, MindSaarthi includes interactive tools like a mood tracker, mental health quizzes, emergency helpline access, curated podcast videos, a resource library, and informative articles. Designed for accessibility and emotional well-being, it offers a safe and supportive digital space for users..
 
 ## Key Features
 1. **Responsive Navigation Bar**: Designed to work seamlessly across desktops, tablets, and mobile devices.
