@@ -19,12 +19,11 @@ MindSaarthi a user-friendly, multilingual mental health support platform to deli
 
 ##screenshots
 ## Screenshots:
-
-![Demo Gif](_Captures/scr1.png)
-![Demo Gif](_Captures/scr2.png)
-![Demo Gif](_Captures/scr3(2).png)
-![Demo Gif](_Captures/scr4.png)
-![Demo Gif](_Captures/scr5.png)
+![Demo Gif](_Captures/scr4.jpeg)
+![Demo Gif](_Captures/scr3(2).jpeg)
+![Demo Gif](_Captures/scr1.jpeg)
+![Demo Gif](_Captures/scr2.jpeg)
+![Demo Gif](_Captures/scr5.jpeg)
 
 
 
