@@ -22,13 +22,20 @@ MindSaarthi a user-friendly, multilingual mental health support platform to deli
 - **Tawk.to**: For live chat integration, enabling real-time support.
 - **JavaScript (Quiz Modal)**: Powers the interactive quiz feature that selects 10 random questions from a set of 25 to assess the user’s mental health state.
 
+<h3>Screenshots</h3>
 
-## Screenshots:
-![Demo Gif](_Captures/scr.jpeg)
-![Demo Gif](_Captures/scr4.jpeg)
-![Demo Gif](_Captures/scr1.jpeg)
-![Demo Gif](_Captures/scr3.jpeg)
-![Demo Gif](_Captures/scr2.jpeg)
+<p align="center">
+  <img src="_Captures/scr.jpeg" alt="Screenshot 1" width="45%"/>
+  <img src="_Captures/scr4.jpeg" alt="Screenshot 2" width="45%"/>
+</p>
+<p align="center">
+  <img src="_Captures/scr1.jpeg" alt="Screenshot 3" width="45%"/>
+  <img src="_Captures/scr3.jpeg" alt="Screenshot 4" width="45%"/>
+</p>
+<p align="center">
+  <img src="_Captures/scr2.jpeg" alt="Screenshot 5" width="45%"/>
+</p>
+
 
 
 
