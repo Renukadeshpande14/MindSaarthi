@@ -5,7 +5,7 @@ MindSaarthi a user-friendly, multilingual mental health support platform to deli
 
 ## Demo
 
-![Demo Gif](_Captures/giff.gif)
+![Demo Gif](_Captures/final.gif)
 
 
 ## Key Features
