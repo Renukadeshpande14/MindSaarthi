@@ -19,18 +19,20 @@ MindSaarthi a user-friendly, multilingual mental health support platform to deli
 ## Tools and Technologies
 - **HTML, CSS, JavaScript**: Frontend development.
 - **Swiper.js**: For creating dynamic, responsive carousels on the homepage.
-- **Tawk.to**: For live chat integration, enabling real-time support.
 - **JavaScript (Quiz Modal)**: Powers the interactive quiz feature that selects 10 random questions from a set of 25 to assess the user’s mental health state.
+- **NLTK,NLP,LLM**: For  chat enabling real-time support.
 
-## Screenshots
 
-<p align="center">
-  <img src="_Captures/scr.jpeg" width="180"/>
-  <img src="_Captures/scr4.jpeg" width="180"/>
-  <img src="_Captures/scr1.jpeg" width="180"/>
-  <img src="_Captures/scr3.jpeg" width="180"/>
-  <img src="_Captures/scr2.jpeg" width="180"/>
-</p>
+<h3>Screenshots</h3>
+
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  <img src="_Captures/scr.jpeg" width="250"/>
+  <img src="_Captures/scr4.jpeg" width="250"/>
+  <img src="_Captures/scr1.jpeg" width="250"/>
+  <img src="_Captures/scr3.jpeg" width="250"/>
+  <img src="_Captures/scr2.jpeg" width="250"/>
+</div>
+
 
 
 
