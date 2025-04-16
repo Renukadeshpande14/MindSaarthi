@@ -24,17 +24,16 @@ MindSaarthi a user-friendly, multilingual mental health support platform to deli
 
 <h3>Screenshots</h3>
 
-<p align="center">
-  <img src="_Captures/scr.jpeg" alt="Screenshot 1" width="45%"/>
-  <img src="_Captures/scr4.jpeg" alt="Screenshot 2" width="45%"/>
-</p>
-<p align="center">
-  <img src="_Captures/scr1.jpeg" alt="Screenshot 3" width="45%"/>
-  <img src="_Captures/scr3.jpeg" alt="Screenshot 4" width="45%"/>
-</p>
-<p align="center">
-  <img src="_Captures/scr2.jpeg" alt="Screenshot 5" width="45%"/>
-</p>
+<h3>Screenshots</h3>
+
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  <img src="_Captures/scr.jpeg" alt="Screenshot 1" width="300"/>
+  <img src="_Captures/scr4.jpeg" alt="Screenshot 2" width="300"/>
+  <img src="_Captures/scr1.jpeg" alt="Screenshot 3" width="300"/>
+  <img src="_Captures/scr3.jpeg" alt="Screenshot 4" width="300"/>
+  <img src="_Captures/scr2.jpeg" alt="Screenshot 5" width="300"/>
+</div>
+
 
 
 
