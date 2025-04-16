@@ -23,15 +23,13 @@ MindSaarthi a user-friendly, multilingual mental health support platform to deli
 - **NLTK,NLP,LLM**: For  chat enabling real-time support.
 
 
-<h3>Screenshots</h3>
+## Screenshots
 
-<div style="display: flex; overflow-x: auto; gap: 10px;">
-  <img src="_Captures/scr.jpeg" width="250"/>
-  <img src="_Captures/scr4.jpeg" width="250"/>
-  <img src="_Captures/scr1.jpeg" width="250"/>
-  <img src="_Captures/scr3.jpeg" width="250"/>
-  <img src="_Captures/scr2.jpeg" width="250"/>
-</div>
+![Screenshot 1](_Captures/scr.jpeg)
+![Screenshot 2](_Captures/scr4.jpeg)
+![Screenshot 3](_Captures/scr1.jpeg)
+![Screenshot 4](_Captures/scr3.jpeg)
+![Screenshot 5](_Captures/scr2.jpeg)
 
 
 
