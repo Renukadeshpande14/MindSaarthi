@@ -26,7 +26,13 @@ MindSaarthi a user-friendly, multilingual mental health support platform to deli
 <h3>Screenshots</h3>
 
 <p align="center">
-  <img src="_Captures/scr.jpeg" style="width: 100%; max-width: 800px;" />
+  <img src="_Captures/sc1.jpeg" style="width: 100%; max-width: 800px;" />
+</p>
+<p align="center">
+  <img src="_Captures/sc2.jpeg" style="width: 100%; max-width: 800px;" />
+</p>
+<p align="center">
+  <img src="_Captures/sc3.jpeg" style="width: 100%; max-width: 800px;" />
 </p>
 <p align="center">
   <img src="_Captures/scr4.jpeg" style="width: 100%; max-width: 800px;" />
