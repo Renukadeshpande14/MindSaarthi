@@ -2,13 +2,14 @@
 
 ## Overview
 MindSaarthi a user-friendly, multilingual mental health support platform to deliver empathetic, human-like response. Beyond conversational support, MindSaarthi includes interactive tools like a mood tracker, mental health quizzes, emergency helpline access, curated podcast videos, a resource library, and informative articles. Designed for accessibility and emotional well-being, it offers a safe and supportive digital space for users..
-
 ## Demo
 
-![Demo Gif](_Captures/final.gif)
-
+<p align="center">
+  <img src="_Captures/final.gif" alt="Demo Gif" style="width: 100%; max-width: 800px;" />
+</p>
 
 ## Key Features
+
 1. **Responsive Navigation Bar**: Designed to work seamlessly across desktops, tablets, and mobile devices.
 2. **Interactive Mood Tracker**: Allows users to log and track their emotions over time, with tailored recommendations for improving mental well-being.
 3. **Resource Library**: Divided into categories such as anxiety, stress, depression, and mindfulness. Contains articles, videos, and podcasts.
